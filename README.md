@@ -6,3 +6,4 @@ Dagens repo. Vi går över CSS Flexbox!
 * [CSS Flexbox](https://docs.google.com/presentation/d/1GGCqaeKRbkBI1ttC4JbrJ3pZbVvVhauoaF80y8cBcNo/edit?usp=sharing)
 
 ![flexbox excercise](flexbox.png)
+![flexbox excercise2](flexbox2.png)
