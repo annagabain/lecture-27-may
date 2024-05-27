@@ -4,8 +4,8 @@
     height: 250px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    align-items: flex-start;
+    justify-content: space-between;
+    align-items: center;
 }
 .flex-item {
     background-color: hotpink;
